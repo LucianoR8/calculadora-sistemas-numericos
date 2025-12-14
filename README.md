@@ -4,7 +4,7 @@
 
 ---
 
-### Para o desenvolvimento do projeto foram utilizadas as seguintes tecnologias:
+### Para o desenvolvimento do projeto foram utilizadas as seguintes ferramentas:
 
  - VS Code.
  - HTML5;
@@ -22,10 +22,7 @@
  - Hexadecimal.
 
 
-### Como usar:
-
- - Clone/Baixe o repositório;
- - Execute arquivo index.html.
+***Site:***[Conversor de Sistemas Númericos](https://lucianor8.github.io/calculadora-sistemas-numericos/)
 
 ---
 
