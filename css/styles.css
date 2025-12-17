@@ -1,12 +1,18 @@
 .container-titulo{
     display: flex;
     justify-content: center;
-    margin-top: 100px;
 }
 
 .titulo{
     font-weight: bold;
     font-size: 35px;
+    margin-top: 50%;
+}
+
+.titulo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 170%;
 }
 
 .container-conversor{
@@ -17,11 +23,11 @@
 }
 
 .container-opc{   
-     margin-top: 60px;
+     margin-top: 6%;
 }
 
 #origem, #destino{
-    width: 22vh;
+    width: 16vh;
     height: 4vh;
     border: 2px solid gray;
     cursor: pointer;
@@ -39,20 +45,22 @@
 }
 
 .container-input{
-    margin-top: 10px;
+    margin-top: 5%;
 }
 
 .entrada, .saida{
-    height: 15vh;
-    width: 25vh;
-    border-radius: 15px;
+    height: 9vh;
+    width: 19vh;
+    border-radius: 18px;
     color: black;
     text-align: left;
     border: 1px solid gainsboro;
     box-sizing: border-box;
-    font-size: 24px;
+    font-size: 150%;
     padding: 5px 5px 5px 10px;
     resize: none;
+    gap: 40%;
+    text-align: center;
 }
 
 .saida{
@@ -60,7 +68,7 @@
 }
 
 .btn{
-    margin-top: 10px;
+    margin-top: 10%;
     border: 1px solid rgb(8, 148, 230);
     font-size: 20px;
     color: white;
@@ -68,4 +76,28 @@
     cursor: pointer;
     border-radius: 8px;
     padding: 8px;
+}
+
+@media (min-width: 1024px){
+    .container-titulo{
+    margin-top: 5%;
+}
+
+.container-input{
+    margin-top: 2%;
+}
+
+#origem, #destino{
+    width: 20vh;
+}
+
+.entrada, .saida{
+    height: 11vh;
+    width: 22vh;
+}
+
+.btn{
+    margin-top: 4%;
+}
+
 }
