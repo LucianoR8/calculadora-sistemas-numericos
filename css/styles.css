@@ -1,3 +1,7 @@
+body{
+    background-color: aquamarine;
+}
+
 .container-titulo{
     display: flex;
     justify-content: center;
@@ -6,7 +10,7 @@
 .titulo{
     font-weight: bold;
     font-size: 35px;
-    margin-top: 50%;
+    margin-top: 50px;
 }
 
 .titulo{
@@ -40,7 +44,7 @@
     border: none;
     cursor: pointer;
     font-size: 16px;
-    background-color: white;
+    background-color: aquamarine;
     color: blue;
 }
 
