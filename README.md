@@ -1,6 +1,6 @@
 # Conversor de Sistemas Númericos
 
-## Essa aplicação tem como o intuito de forncer a possibilidade de converter números de diferentes sistemas númericos.
+Essa aplicação tem como o intuito de forncer a possibilidade de converter números de diferentes sistemas númericos.
 
 ---
 
