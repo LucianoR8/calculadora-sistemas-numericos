@@ -21,6 +21,11 @@ Essa aplicação tem como o intuito de forncer a possibilidade de converter núm
  - Decimal;
  - Hexadecimal.
 
+### Futuras melhorias
+
+- Melhora na interface;
+- Detalhes de cálculo efetuado na conversão.
+
 
 ***Site:*** [Conversor de Sistemas Númericos](https://lucianor8.github.io/calculadora-sistemas-numericos/)
 
